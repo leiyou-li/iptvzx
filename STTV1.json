@@ -1,6 +1,34 @@
 {
   "urls": [ 
-   {
+  {
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/2.json",
+      "name": "💛STTV-J2接口"
+    },
+    {
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/8.json",
+      "name": "💛STTV-J8接口"
+    },
+    {
+      "url": "http://cgecrg1234.xhwl.shop/年年岁岁/0525.json",
+      "name": "💛STTV-XFNN-主用接口"
+    },
+    {
+      "url": "http://150.158.112.123/jar/ce3.json",
+      "name": "💛STTV-XFNN-玉玉影视"
+    },
+    {
+      "url": "https://ys.mohuajz.eu.org/柒豪/柒豪4K.json",
+      "name": "💛STTV-XFNN-柒豪"
+    },
+    {
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "name": "💛STTV-XFNN-潇洒影视"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "STTV-XFNN-摸鱼儿"
+    },
+    {
       "url": "http://www.饭太硬.com/tv/",
       "name": "🌈饭太硬"
     }, 
