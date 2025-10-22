@@ -1,8 +1,12 @@
 {
   "urls": [ 
       {
-      "url": "tv.4kbox.top/4k/index.php",
-      "name": "💛STTV-4KBOX接口"
+      "url": "http://zoto.3d.tc/i/i/steven.txt",
+      "name": "💛Steven影视接口"
+    },    
+    {
+      "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/2.json",
+      "name": "💛STTV-J2接口"
     },
     {
       "url": "https://raw.gitmirror.com/250992941/iptv/refs/heads/main/8.json",
@@ -12,6 +16,10 @@
       "url": "http://www.mdxgh.top:5555/mdxgho.json",
       "name": "💛STTV-码点-接口"
     },
+     {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "💛STTV-巧技接口"
+    },
     {
       "url": "http://bb.is-best.net//i/DB2.txt",
       "name": "💛STTV-宝盒TV-接口"
@@ -19,6 +27,10 @@
     {
       "url": "http://ok321.top/ok",
       "name": "💛STTV-OK Jack-接口"
+    },
+    {
+      "url": "http://tv.4kbox.top/api/api.json",
+      "name": "💛STTV-4KTVBOX-接口"
     },
     {
       "url": "http://bb.is-best.net//i/52.txt",
